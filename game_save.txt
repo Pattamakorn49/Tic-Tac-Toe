@@ -1,0 +1,4 @@
+PlayerX=
+PlayerO=
+Board=
+CurrentPlayer=
